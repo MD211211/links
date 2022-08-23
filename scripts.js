@@ -2,7 +2,7 @@
 const config = {
   title: "Luximus' links",
   bio: [
-    "Hiya, I'm Luximus! Feel free to call me Luxi.",
+    "Hiya, I'm Max! Feel free to call me Anything MD.",
     'Check me out on other platforms!',
   ],
   background: {
@@ -11,7 +11,7 @@ const config = {
   links: [
     {
       name: 'Discord',
-      text: 'Luximus#2043',
+      text: 'MD211211#0001',
     },
     {
       name: 'VRChat',
