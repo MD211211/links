@@ -12,16 +12,7 @@ const config = {
     {
       name: 'Discord',
       text: 'MD211211#0001',
-    },
-    {
-      name: 'VRChat',
-      url: 'https://vrchat.com/home/user/usr_d62468cf-a90b-4bc4-a4f9-c10133e35f2b',
-      text: 'Luximus',
-    },
-    {
-      name: 'Genshin Impact',
-      text: 'LuximusHunter',
-    },
+    },  
     {
       name: 'Steam',
       url: 'https://steamcommunity.com/profiles/76561198393226059',
@@ -36,21 +27,12 @@ const config = {
       text: 'LXMS_SubSilence',
     },
     {
-      name: 'Riot Games',
-      text: 'LuximusHunter',
-    },
-    {
-      name: 'Spotify',
-      url: 'https://open.spotify.com/user/yxmq93tlmfomm2ir62cs0bq0u?si=6b5fbb8557c84fba',
-      text: 'Luximus',
-    },
-    {
       name: 'Github',
-      url: 'https://github.com/luximus-hunter',
+      url: 'https://github.com/MD211211',
       text: 'MD211211',
     },
   ],
-  credit: true,
+  credit: false,
 };
 
 // DOM elements
