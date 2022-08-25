@@ -23,10 +23,6 @@ const config = {
       text: 'MD2112111',
     },
     {
-      name: 'Origin',
-      text: 'LXMS_SubSilence',
-    },
-    {
       name: 'Github',
       url: 'https://github.com/MD211211',
       text: 'MD211211',
