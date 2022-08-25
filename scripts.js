@@ -29,7 +29,7 @@ const config = {
     },
     {
       name: 'Epic Games',
-      text: 'Luximus_LXMS',
+      text: 'MD2112111',
     },
     {
       name: 'Origin',
@@ -47,7 +47,7 @@ const config = {
     {
       name: 'Github',
       url: 'https://github.com/luximus-hunter',
-      text: 'luximus-hunter',
+      text: 'MD211211',
     },
   ],
   credit: true,
